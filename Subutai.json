@@ -1,6 +1,6 @@
 {
-  "name": "Modern-Real-Time-Big-Data-Stack",
-  "description": "Modern Real-Time Big Data Stack",
+  "name": "Hybrid-Real-Time-Prediction-Analytics-Stack",
+  "description": "Hybrid Real-Time Prediction Analytics Stack",
   "nodes": [
     {
       "name": "hazelcast-1",
