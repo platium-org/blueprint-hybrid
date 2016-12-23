@@ -22,7 +22,7 @@
     },
     {
       "name": "kafka-1",
-      "template": "kafka@4c86793a1e76b0eba6a66a0288eced22d11a0c4c",
+      "template": "apache-kafka@4c86793a1e76b0eba6a66a0288eced22d11a0c4c",
       "peer_group": "KAFKA-GROUP",
       "size": "LARGE"
     }
